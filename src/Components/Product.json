@@ -1,0 +1,42 @@
+[ 
+    {
+        "id":1,
+        "tittle":"Spices",
+        "price":176,
+        "image":"https://kalaguragampa.com/media/catalog/product/cache/53afa8b1122afaacf2405cd3f02ea96c/f/l/flaxseed_oil_2.jpg"
+    },
+    {
+        "id":2,
+        "tittle":"Jeera Karam Vadiyalu (100 Grams)",
+        "price":86,
+        "image":"https://kalaguragampa.com/media/catalog/product/cache/53afa8b1122afaacf2405cd3f02ea96c/k/a/karam_vadiyallu_2.jpg"
+    },
+    {
+        "id":3,
+        "tittle":"Salt palakura vadiyalu(100 gms)",
+        "price":89,
+        "image":"https://kalaguragampa.com/media/catalog/product/cache/53afa8b1122afaacf2405cd3f02ea96c/p/a/palakura_vadiyallu_1.jpg"
+    },
+    {
+        "id":4,
+        "tittle":"Horsegram Powder (Ulava Karam Podi) (150 Grams)",
+        "price":89,
+        "image":"https://kalaguragampa.com/media/catalog/product/cache/53afa8b1122afaacf2405cd3f02ea96c/h/o/horsegram_powder_ulava_karam_podi_2.jpg"
+
+    },
+    {
+        "id":5,
+        "tittle":"Wheat Suji Carrot Vadiyalu (100 Grams)",
+        "price":89,
+        "image":"https://kalaguragampa.com/media/catalog/product/cache/53afa8b1122afaacf2405cd3f02ea96c/v/a/vama_vadiyallu_2.jpg"
+
+    },
+    {
+        "id":6,
+        "tittle":"Wheat Suji Vamu Vadiyalu (100 Grams)",
+        "price":89,
+        "image":"https://kalaguragampa.com/media/catalog/product/cache/53afa8b1122afaacf2405cd3f02ea96c/c/a/carrot_vadiyallu_2.jpg"
+    }
+
+
+]
